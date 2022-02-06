@@ -1,4 +1,4 @@
-<table border="0" cellpadding="5" cellspacing="0">
+<table border="1" cellpadding="4" cellspacing="0">
   <tr>
       <td colspan="2" align="center"><b>Корпориалы</b></td>
       <td colspan="2" align="center"><b>Эфиреалы</b></td>

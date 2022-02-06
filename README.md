@@ -5,19 +5,20 @@
       <td colspan="2" align="center"><b>Субстанциалы</b></td>
   </tr>
   <tr>
+      <td>Сердцебиты</td>
       <td>Шквальные</td>
+      <td>Прочники</td>
+  </tr>
+  <tr>
+      <td>Целители</td>
       <td>Инферны</td>
+      <td>Алкемы</td>
+  </tr>
+  <tr>
+      <td>-</td>
       <td>Проливные</td>
-  </tr>
-  <tr>
-      <td>Firefox</td>
-      <td>163</td>
-      <td>59%</td>
-  </tr>
-  <tr>
-      <td>Яндекс</td>
-      <td>78</td>
-      <td>30%</td>
+      <td>-</td>
   </tr>
 </table>
+  
   

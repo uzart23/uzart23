@@ -1,8 +1,16 @@
-<table border="1" cellpadding="4" cellspacing="0">
+<table border="1" cellpadding="5" cellspacing="0">
+  <div>
+    <b>ТЕСТ</b>
+    <p class="color1 fon1">ABZAC 1</p>
+    <p class="color1 fon2">ABZAC 2</p>
+</div>
+
+     <link rel="stylesheet" href="style.css">
+
   <tr>
-      <td align="center"><b>Корпориалы</b></td>
-      <td align="center"><b>Эфиреалы</b></td>
-      <td align="center"><b>Субстанциалы</b></td>
+      <td colspan="2" align="center"><b>Корпориалы</b></td>
+      <td colspan="2" align="center"><b>Эфиреалы</b></td>
+      <td colspan="2" align="center"><b>Субстанциалы</b></td>
   </tr>
   <tr>
       <td>Сердцебиты</td>
@@ -20,5 +28,4 @@
       <td>-</td>
   </tr>
 </table>
-  
   

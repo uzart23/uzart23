@@ -1,8 +1,8 @@
 <table border="1" cellpadding="4" cellspacing="0">
   <tr>
-      <td colspan="2" align="center"><b>Корпориалы</b></td>
-      <td colspan="2" align="center"><b>Эфиреалы</b></td>
-      <td colspan="2" align="center"><b>Субстанциалы</b></td>
+      <td align="center"><b>Корпориалы</b></td>
+      <td align="center"><b>Эфиреалы</b></td>
+      <td align="center"><b>Субстанциалы</b></td>
   </tr>
   <tr>
       <td>Сердцебиты</td>
